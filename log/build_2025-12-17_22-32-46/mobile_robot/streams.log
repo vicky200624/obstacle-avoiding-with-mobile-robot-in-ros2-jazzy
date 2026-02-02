@@ -1,0 +1,17 @@
+[0.726s] Invoking command in '/home/vicky/ws_mobile3/build/mobile_robot': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/vicky/ws_mobile3/build/mobile_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vicky/ws_mobile3/install/mobile_robot/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/vicky/ws_mobile3/build/mobile_robot/build --no-deps symlink_data
+[1.002s] running develop
+[1.139s] running egg_info
+[1.152s] writing mobile_robot.egg-info/PKG-INFO
+[1.152s] writing dependency_links to mobile_robot.egg-info/dependency_links.txt
+[1.153s] writing entry points to mobile_robot.egg-info/entry_points.txt
+[1.153s] writing requirements to mobile_robot.egg-info/requires.txt
+[1.153s] writing top-level names to mobile_robot.egg-info/top_level.txt
+[1.185s] reading manifest file 'mobile_robot.egg-info/SOURCES.txt'
+[1.186s] writing manifest file 'mobile_robot.egg-info/SOURCES.txt'
+[1.203s] running build_ext
+[1.203s] Creating /home/vicky/ws_mobile3/install/mobile_robot/lib/python3.12/site-packages/mobile-robot.egg-link (link to .)
+[1.204s] Installing controller_final script to /home/vicky/ws_mobile3/install/mobile_robot/lib/mobile_robot
+[1.205s] 
+[1.205s] Installed /home/vicky/ws_mobile3/build/mobile_robot
+[1.205s] running symlink_data
+[1.239s] Invoked command in '/home/vicky/ws_mobile3/build/mobile_robot' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/vicky/ws_mobile3/build/mobile_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vicky/ws_mobile3/install/mobile_robot/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/vicky/ws_mobile3/build/mobile_robot/build --no-deps symlink_data

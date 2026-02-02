@@ -1,0 +1,23 @@
+[0.747s] Invoking command in '/home/vicky/ws_mobile3/src/mobile_robot': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/vicky/ws_mobile3/build/mobile_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vicky/ws_mobile3/install/mobile_robot/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mobile_robot build --build-base /home/vicky/ws_mobile3/build/mobile_robot/build install --record /home/vicky/ws_mobile3/build/mobile_robot/install.log --single-version-externally-managed install_data
+[0.938s] running egg_info
+[0.952s] writing ../../build/mobile_robot/mobile_robot.egg-info/PKG-INFO
+[0.953s] writing dependency_links to ../../build/mobile_robot/mobile_robot.egg-info/dependency_links.txt
+[0.953s] writing entry points to ../../build/mobile_robot/mobile_robot.egg-info/entry_points.txt
+[0.953s] writing requirements to ../../build/mobile_robot/mobile_robot.egg-info/requires.txt
+[0.953s] writing top-level names to ../../build/mobile_robot/mobile_robot.egg-info/top_level.txt
+[0.982s] reading manifest file '../../build/mobile_robot/mobile_robot.egg-info/SOURCES.txt'
+[0.983s] writing manifest file '../../build/mobile_robot/mobile_robot.egg-info/SOURCES.txt'
+[0.983s] running build
+[0.983s] running build_py
+[0.984s] running install
+[0.988s] running install_lib
+[1.004s] running install_data
+[1.004s] copying model/robot.gazebo -> /home/vicky/ws_mobile3/install/mobile_robot/share/mobile_robot/model
+[1.004s] copying model/robot.xacro -> /home/vicky/ws_mobile3/install/mobile_robot/share/mobile_robot/model
+[1.005s] running install_egg_info
+[1.020s] removing '/home/vicky/ws_mobile3/install/mobile_robot/lib/python3.12/site-packages/mobile_robot-0.0.0-py3.12.egg-info' (and everything under it)
+[1.020s] Copying ../../build/mobile_robot/mobile_robot.egg-info to /home/vicky/ws_mobile3/install/mobile_robot/lib/python3.12/site-packages/mobile_robot-0.0.0-py3.12.egg-info
+[1.021s] running install_scripts
+[1.116s] Installing controller_final script to /home/vicky/ws_mobile3/install/mobile_robot/lib/mobile_robot
+[1.117s] writing list of installed files to '/home/vicky/ws_mobile3/build/mobile_robot/install.log'
+[1.150s] Invoked command in '/home/vicky/ws_mobile3/src/mobile_robot' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/vicky/ws_mobile3/build/mobile_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vicky/ws_mobile3/install/mobile_robot/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mobile_robot build --build-base /home/vicky/ws_mobile3/build/mobile_robot/build install --record /home/vicky/ws_mobile3/build/mobile_robot/install.log --single-version-externally-managed install_data
